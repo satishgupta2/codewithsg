@@ -1,4 +1,4 @@
 # codewithsg
-this is my first Git Repository.
+this is my portfolio.
 <br>
 Author- Satish Gupta
